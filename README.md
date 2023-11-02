@@ -1,2 +1,3 @@
 # PracticeQuestions
-Organizing programs as I learn various concepts and practice an array of questions daily.
+Organizing practice codes and things i learn from my learning journey into this repository.
+
