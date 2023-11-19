@@ -9,3 +9,8 @@ STarting soon:
 - Neetcode 150
 
 Adding Resources I find useful here
+
+Gate Questions
+- Start with Algorithms and C programming questions
+
+Engineering Mathetmatcs
