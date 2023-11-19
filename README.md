@@ -14,3 +14,15 @@ Gate Questions
 - Start with Algorithms and C programming questions
 
 Engineering Mathetmatcs
+- Lineear Algebra
+- Discreete maths
+
+Math Thnings to do daily
+- tables
+- addition multiplications tricks
+- Aptitute
+
+Make flashcards
+- revose daily
+- make space repitition times
+- - make spaced repitition times
